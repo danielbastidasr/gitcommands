@@ -34,7 +34,7 @@
 - git branch -D nameBranchToDelete
 
 
-# changes to a branch
+# Changes to a branch
 
 - git merge branch  (you have to be in master to do that)
 
@@ -44,4 +44,16 @@
 ########GIT Online########
 ##########################
 
+
+# List all your remote repositories 
+
+- git remote -v
+
+# Push your files to the web repository
+
+- git push nameWebRepository nameOfTheBranchYouWantToPush
+
+# Pull from we repository 
+
+- git pull nameWebRepository nameOfTheBranch
 

@@ -1,0 +1,47 @@
+# Begin Git Repository 
+
+- git init
+
+# Check status
+
+- git status
+
+# Track file
+
+- git add filename.ext
+- git add .
+- git add -A
+
+# Commit Changes
+
+- git commit -m “Message”
+
+# Log 
+
+- git log
+
+# Go Back to state or branch
+
+- git checkout first6CharactersID
+
+# Info Branches
+
+- git branch 
+ 
+# New Branch
+
+- git checkout -b newBranchName
+- git branch -D nameBranchToDelete
+
+
+# changes to a branch
+
+- git merge branch  (you have to be in master to do that)
+
+
+
+##########################
+########GIT Online########
+##########################
+
+
